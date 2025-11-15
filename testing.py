@@ -1,0 +1,1 @@
+print("hello bachoo i am your trainer")
